@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="1.699">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2021-10-24T06:46:03" time="1.281" tests="3">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.053">
+    </testcase>
+    <testcase classname=" search is made on by clicking on search button and no results found" name=" search is made on by clicking on search button and no results found" time="0.027">
+    </testcase>
+    <testcase classname=" search is made on by clicking on search button and return items" name=" search is made on by clicking on search button and return items" time="0.018">
+    </testcase>
+  </testsuite>
+</testsuites>
